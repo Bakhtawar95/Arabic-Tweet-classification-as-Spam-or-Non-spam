@@ -8,5 +8,7 @@
            nltk.download('punkt') 
            nltk.download('stopwords')
  2. Then run the program using:
-                              python tweet.py
+                              
+           python tweet.py
+                              
  3. When the program prompts for user input, enter the tweet in Arabic language you want to classify.
